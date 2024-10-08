@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\proyectos\\Realtechproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\modelos\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\modelos\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\pages\\categorias\\componenteditarcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\pages\\categorias\\componenteditarcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\repositorio\\irepositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\repositorio\\irepositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\modelos\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\modelos\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\pages\\categorias\\componentcrearcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\pages\\categorias\\componentcrearcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\pages\\categorias\\componentcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\pages\\categorias\\componentcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\Pages\\Categorias\\CompCategorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\Pages\\Categorias\\CompCrearCategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\wwwroot\\assets\\vendor\\aos\\aos.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\wwwroot\\assets\\vendor\\aos\\aos.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\wwwroot\\assets\\vendor\\aos\\aos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\wwwroot\\assets\\vendor\\aos\\aos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\modelos\\dto\\empleadosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\modelos\\dto\\empleadosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20241005165848_migracionweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Realtech\\Data\\Migrations\\20241005165848_migracionweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\mapper\\perfillmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\mapper\\perfillmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\wwwroot\\assets\\vendor\\php-email-form\\validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\wwwroot\\assets\\vendor\\php-email-form\\validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\data\\migrations\\20240927225447_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\data\\migrations\\20240927225447_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|e:\\proyectos\\realtechproject\\realtech\\data\\migrations\\20241005170115_migracionweb000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5919CE0-11D3-4714-B7EB-F717D9185519}|Realtech\\Realtech.csproj|solutionrelative:realtech\\data\\migrations\\20241005170115_migracionweb000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Modelos\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "Realtech\\Modelos\\CategoriaRepositorio.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Modelos\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "Realtech\\Modelos\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:18:27.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Modelos\\DTO\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "Realtech\\Modelos\\DTO\\CategoriaDTO.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Modelos\\DTO\\CategoriaDTO.cs",
+              "RelativeToolTip": "Realtech\\Modelos\\DTO\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:15:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "Realtech\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "Realtech\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T23:23:07.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoriaRepositorio.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "Realtech\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "Realtech\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:57:47.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponentEditarCategoria.razor",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Categorias\\ComponentEditarCategoria.razor",
+              "RelativeDocumentMoniker": "Realtech\\Pages\\Categorias\\ComponentEditarCategoria.razor",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Categorias\\ComponentEditarCategoria.razor",
+              "RelativeToolTip": "Realtech\\Pages\\Categorias\\ComponentEditarCategoria.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T22:46:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T22:58:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComponentCrearCategoria.razor",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Categorias\\ComponentCrearCategoria.razor",
+              "RelativeDocumentMoniker": "Realtech\\Pages\\Categorias\\ComponentCrearCategoria.razor",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Categorias\\ComponentCrearCategoria.razor",
+              "RelativeToolTip": "Realtech\\Pages\\Categorias\\ComponentCrearCategoria.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T17:32:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Realtech\\Shared\\NavMenu.razor",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Realtech\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T19:35:17.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComponentCategoria.razor",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Categorias\\ComponentCategoria.razor",
+              "RelativeDocumentMoniker": "Realtech\\Pages\\Categorias\\ComponentCategoria.razor",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Categorias\\ComponentCategoria.razor",
+              "RelativeToolTip": "Realtech\\Pages\\Categorias\\ComponentCategoria.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T22:08:46.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompCategorias.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\Pages\\Categorias\\CompCategorias.razor",
+              "ToolTip": "C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\Pages\\Categorias\\CompCategorias.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T22:07:07.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "aos.js",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "RelativeDocumentMoniker": "Realtech\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "RelativeToolTip": "Realtech\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABsJAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T17:27:39.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "aos.cjs.js",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "RelativeDocumentMoniker": "Realtech\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "RelativeToolTip": "Realtech\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "ViewState": "AgIAALsBAAAAAAAAAAAvwMYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T17:27:48.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompCrearCategoria.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\Pages\\Categorias\\CompCrearCategoria.razor",
+              "ToolTip": "C:\\Users\\user\\Downloads\\PropiedadesBlazorServer (4)\\PropiedadesBlazorServer\\PropiedadesBlazor\\Pages\\Categorias\\CompCrearCategoria.razor",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T19:16:41.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "aos.esm.js",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+              "RelativeDocumentMoniker": "Realtech\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+              "RelativeToolTip": "Realtech\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAvwMABAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T17:27:57.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadosDTO.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Modelos\\DTO\\EmpleadosDTO.cs",
+              "RelativeDocumentMoniker": "Realtech\\Modelos\\DTO\\EmpleadosDTO.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Modelos\\DTO\\EmpleadosDTO.cs",
+              "RelativeToolTip": "Realtech\\Modelos\\DTO\\EmpleadosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:06:12.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\appsettings.json",
+              "RelativeDocumentMoniker": "Realtech\\appsettings.json",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\appsettings.json",
+              "RelativeToolTip": "Realtech\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T16:56:19.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.razor",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Realtech\\Pages\\Index.razor",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\Index.razor",
+              "RelativeToolTip": "Realtech\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:04:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241005165848_migracionweb.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20241005165848_migracionweb.cs",
+              "RelativeDocumentMoniker": "Realtech\\Data\\Migrations\\20241005165848_migracionweb.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20241005165848_migracionweb.cs",
+              "RelativeToolTip": "Realtech\\Data\\Migrations\\20241005165848_migracionweb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:58:48.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.razor",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Realtech\\Pages\\About.razor",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Pages\\About.razor",
+              "RelativeToolTip": "Realtech\\Pages\\About.razor",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T17:40:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241005170115_migracionweb000.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20241005170115_migracionweb000.cs",
+              "RelativeDocumentMoniker": "Realtech\\Data\\Migrations\\20241005170115_migracionweb000.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20241005170115_migracionweb000.cs",
+              "RelativeToolTip": "Realtech\\Data\\Migrations\\20241005170115_migracionweb000.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:01:15.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Realtech\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Realtech\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:01:37.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PerfillMapa.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Mapper\\PerfillMapa.cs",
+              "RelativeDocumentMoniker": "Realtech\\Mapper\\PerfillMapa.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Mapper\\PerfillMapa.cs",
+              "RelativeToolTip": "Realtech\\Mapper\\PerfillMapa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:06:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Realtech\\appsettings.Development.json",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\appsettings.Development.json",
+              "RelativeToolTip": "Realtech\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T22:38:30.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240927225447_Categorias.cs",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20240927225447_Categorias.cs",
+              "RelativeDocumentMoniker": "Realtech\\Data\\Migrations\\20240927225447_Categorias.cs",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\Data\\Migrations\\20240927225447_Categorias.cs",
+              "RelativeToolTip": "Realtech\\Data\\Migrations\\20240927225447_Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:54:47.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "validate.js",
+              "DocumentMoniker": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+              "RelativeDocumentMoniker": "Realtech\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+              "ToolTip": "E:\\proyectos\\Realtechproject\\Realtech\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+              "RelativeToolTip": "Realtech\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-27T21:44:18.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

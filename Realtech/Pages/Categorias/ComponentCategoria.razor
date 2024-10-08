@@ -1,0 +1,72 @@
+﻿@page "/categorias"
+@using Realtech.Modelos.DTO
+@using Repositorio.IRepositorio
+@inject ICategoriaRepositorio CategoriaRepositorio
+
+
+<h1 class="text-center">Categoria</h1>
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-7">
+                <h4 class="card-title text-dark">Lista de Categorias</h4>
+            </div>
+            <div class="col-3 offset-2">
+                <NavLink href="crear-categoria" class="btn btn-primary"><i class="bi bi-plus-circle-fill"></i> &nbsp; Bueva Categoria</NavLink>
+            </div>
+        </div>
+
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Descripcion</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @if (categoriaDto.Count() > 0)
+                {
+
+                    foreach (var categoria in categoriaDto)
+                    {
+                        <tr>
+                            <td>@categoria.Id</td>
+                            <td>@categoria.NombreCategoria</td>
+                            <td>@categoria.Descripcion</td>
+                            <td>
+                                <NavLink href="@($"editar-categoria/{categoria.Id}")" class="btn btn-success"><i class="bi bi-gear-fill"></i> &nbsp; Editar</NavLink>
+                                <button class="btn btn-danger" @onclick="()=> ManejadorOnBorrar(categoria.Id)"><i class="bi bi-trash-fill"></i> &nbsp; Bottat</button>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5">No Hay Registros...</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@code {
+    private IEnumerable<CategoriaDTO> categoriaDto { get; set; } = new List<CategoriaDTO>();
+    protected override async Task OnInitializedAsync()
+    {
+        categoriaDto = await CategoriaRepositorio.GetAllCategorias();
+    }
+    private async Task ManejadorOnBorrar(int categoriaId)
+    {
+    }
+    
+}
